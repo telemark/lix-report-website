@@ -17,7 +17,7 @@ function measurePages (pages) {
     if (list.length > 0) {
       const page = list.pop()
       if (page) {
-        console.log(page)
+        console.log(list.length + ' pages remaining.')
         xrayPage(page, function (error, data) {
           if (error) {
             console.error(error)
