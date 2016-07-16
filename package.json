@@ -33,7 +33,7 @@
     "tap": "6.2.0"
   },
   "dependencies": {
-    "lix": "2.0.0",
+    "lix": "2.0.1",
     "normalize-html-whitespace": "0.2.0",
     "sitemap-to-array": "4.0.0",
     "x-ray": "2.3.0",
