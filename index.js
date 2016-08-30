@@ -2,7 +2,7 @@
 
 const http = require('http')
 const lix = require('lix')
-const xlsx = require('xlsx-writestream')
+const xlsx = require('tfk-json-to-xlsx')
 const smtaStream = require('sitemap-to-array').stream
 const config = require('./config')
 const xrayPage = require('./lib/xray-page')

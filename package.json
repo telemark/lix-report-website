@@ -1,6 +1,6 @@
 {
   "name": "lix-report-website",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "LIX reporter",
   "license": "MIT",
   "author": {
@@ -36,7 +36,7 @@
     "lix": "2.0.1",
     "normalize-html-whitespace": "0.2.0",
     "sitemap-to-array": "4.0.0",
-    "x-ray": "2.3.0",
-    "xlsx-writestream": "0.4.0"
+    "tfk-json-to-xlsx": "1.0.1",
+    "x-ray": "2.3.0"
   }
 }
