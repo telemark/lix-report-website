@@ -14,7 +14,7 @@
   "homepage": "https://github.com/telemark/lix-report-website",
   "main": "index.js",
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=4.6.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
