@@ -2,7 +2,7 @@
 
 const fs = require('fs')
 const tap = require('tap')
-const xrayPage = require('../lib/xray-page')
+const xrayPage = require('../../lib/xray-page')
 
 tap.test('requires input', function (test) {
   const expectedErrorMessage = 'Missing required input'
@@ -15,7 +15,7 @@ tap.test('requires input', function (test) {
 })
 
 tap.test('returns expected data', function (test) {
-  const expectedData = require('./data/xray.data.json')
+  const expectedData = require('./../data/xray.data.json')
   const rawData = fs.readFileSync('test/data/data.html')
 
   xrayPage(rawData, function (error, data) {
