@@ -37,7 +37,7 @@
     "lix": "2.0.4",
     "normalize-html-whitespace": "0.2.0",
     "sitemap-to-array": "4.0.0",
-    "tfk-json-to-xlsx": "1.0.9",
+    "tfk-json-to-xlsx": "1.0.11",
     "x-ray": "2.3.1"
   }
 }
