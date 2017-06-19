@@ -1,6 +1,6 @@
 {
   "name": "lix-report-website",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "LIX reporter",
   "license": "MIT",
   "author": {
@@ -31,7 +31,7 @@
     "standard": "10.0.2",
     "coveralls": "2.13.1",
     "nsp": "2.6.3",
-    "tap": "10.4.0"
+    "tap": "10.3.3"
   },
   "dependencies": {
     "lix": "2.0.4",
