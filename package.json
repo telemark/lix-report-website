@@ -28,7 +28,7 @@
     "url": "git://github.com/telemark/lix-report-website.git"
   },
   "devDependencies": {
-    "standard": "10.0.2",
+    "standard": "10.0.3",
     "coveralls": "2.13.1",
     "nsp": "2.6.3",
     "tap": "10.7.1"
