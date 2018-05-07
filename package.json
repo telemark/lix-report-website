@@ -15,14 +15,16 @@
   "homepage": "https://github.com/telemark/lix-report-website",
   "main": "index.js",
   "engines": {
-    "node": ">=4.6.0"
+    "node": ">=8.11.1"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
+    "test-offline": "standard && tap --reporter=spec test/**/*.js",
     "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
-    "setup": "npm install && node setup.js",
-    "start": "node index.js"
+    "start": "node index.js",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "repository": {
     "type": "git",
