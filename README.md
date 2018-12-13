@@ -3,7 +3,6 @@
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # lix-report-website
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/lix-report-website.svg)](https://greenkeeper.io/)
 Calculate LIX for every page on www.telemark.no and save the result to xlsx
 
 ## Usage
