@@ -40,7 +40,7 @@
     "lix-index": "1.0.0",
     "normalize-html-whitespace": "0.2.0",
     "sitemap-to-array": "5.0.1",
-    "tfk-json-to-xlsx": "1.0.11",
+    "tfk-json-to-xlsx": "2.0.0",
     "x-ray": "2.3.3"
   }
 }
