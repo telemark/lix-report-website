@@ -36,7 +36,7 @@
     "tap": "12.5.0"
   },
   "dependencies": {
-    "lix-index": "1.0.0",
+    "lix-index": "1.0.1",
     "normalize-html-whitespace": "0.2.0",
     "sitemap-to-array": "6.0.0",
     "tfk-json-to-xlsx": "2.0.0",
