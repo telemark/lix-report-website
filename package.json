@@ -33,7 +33,7 @@
   "devDependencies": {
     "standard": "12.0.1",
     "coveralls": "3.0.3",
-    "tap": "13.1.8"
+    "tap": "13.1.11"
   },
   "dependencies": {
     "lix-index": "1.0.1",
